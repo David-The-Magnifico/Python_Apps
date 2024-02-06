@@ -52,7 +52,7 @@ else:
 
 
 name = input("enter your name: ").strip()
-if name.isnum():
+if name.isalnum():
         print("valid name")
 else:
         print("invalid name")
