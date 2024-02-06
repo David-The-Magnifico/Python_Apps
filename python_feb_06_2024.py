@@ -20,5 +20,7 @@ print(f'{name1} + {name2} + {name3}')
 print(name1 * 5)
 
 name4 = "  Muhammed  "
-name4.strip()
 print(len(name4))
+print(len(name4.strip()))
+print(len(name4))
+print(name4)
