@@ -56,3 +56,7 @@ if name.isalnum():
         print("valid name")
 else:
         print("invalid name")
+
+
+
+print(sentence.repace("a", "x"))
