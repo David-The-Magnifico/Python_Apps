@@ -35,7 +35,7 @@ print(sentence.rindex("e"))
 
 
 
-name = input().strip()
+name = input("enter your name: ").strip()
 if name.isalpha():
         print("valid name")
 else:
