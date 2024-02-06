@@ -40,3 +40,11 @@ if name.isalpha():
         print("valid name")
 else:
         print("invalid name")
+
+
+
+name = input("enter your name: ").strip()
+if name.isdigit():
+        print("valid name")
+else:
+        print("invalid name")
