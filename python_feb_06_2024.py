@@ -14,5 +14,6 @@ print(f'[{name1:>10}]')
 print(f'[{name1:<10}]')
 print(f'[{name1:^10}]')
 
+print(name1 + name2 + name3)
 print(f'{name1} + {name2} + {name3}')
         
