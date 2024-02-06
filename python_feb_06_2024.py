@@ -19,8 +19,16 @@ print(f'{name1} + {name2} + {name3}')
         
 print(name1 * 5)
 
-name4 = "  Muhammed  "
+sentence =  "welcome to semicolon"
+name4 = "   Muhammed   "
 print(len(name4))
 print(len(name4.strip()))
 print(len(name4))
 print(name4)
+print(name1.upper())
+print(name3.lower())
+print(name2.capitalize())
+print(sentence.title())
+print(name2.casefold())
+print(sentence.coumt("e"))
+print(sentence.rindex("e"))
