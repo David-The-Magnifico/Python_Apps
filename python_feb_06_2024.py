@@ -32,3 +32,11 @@ print(sentence.title())
 print(name2.casefold())
 print(sentence.coumt("e"))
 print(sentence.rindex("e"))
+
+
+
+name = input().strip()
+if name.isalpha():
+        print("valid name")
+else:
+        print("invalid name")
