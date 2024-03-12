@@ -78,6 +78,8 @@ def main():
                 new_email = input("Email: ")
                 new_workplace = input("Workplace: ")
                 new_workplace_address = input("Address of Workplace: ")
+                print()
+                print()
 
                 new_contact_details = (
                     f"First Name: {new_first_name}\n"
